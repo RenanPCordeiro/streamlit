@@ -1,0 +1,6 @@
+openai
+pandasai
+streamlit
+python-dotenv
+matplotlib
+openpyxl
