@@ -21,7 +21,7 @@ def clear_submit():
 
 load_dotenv()
 
-openai.api_key = os.environ["OPENAI_API_KEY"]
+openai.api_key = OPENAI_API_KEY
 
 llm = OpenAI(api_token=openai.api_key)
 
